@@ -54,39 +54,36 @@ Once the repository is created:
 
 #### 1. Open your terminal.
 #### 2. Clone the repository:
-bash
-Copy code
 git clone [https://github.com/](https://github.com/thedevops111/DevOpsLearning.git)
+
 #### 3. Navigate into your project directory:
-bash
-Copy code
 cd my-devops-journey
 
 ### 4. Commit and Push Changes
 To update the repository with your code:
 
 #### 1. Stage your changes:
-bash
-Copy code
 git add .
+
 #### 2. Commit the changes:
-bash
-Copy code
 git commit -m "Initial commit"
+
 #### 3. Push the changes to the GitHub repository:
-bash
-Copy code
 git push origin main
 
 ## Creating a CI Workflow
 Use GitHub Actions for automating the CI pipeline. Here’s a basic guide:
+![image](https://github.com/user-attachments/assets/9c9de7b4-e94c-4ab2-9b8b-7a168877e998)
 
 ### 1. Add a Workflow
 In your repository, click on the **Actions** tab.
 Choose **Set up a workflow yourself**.
+![image](https://github.com/user-attachments/assets/cd0c51d9-dc2d-4fd1-8185-ed825eaeb989)
+
 
 ### 2. Define the Workflow
 Add the following code to .github/workflows/ci.yml:
+![image](https://github.com/user-attachments/assets/bc2ce51e-4502-4e1c-a22c-b673c54719cb)
 
 
 ```

@@ -40,7 +40,7 @@ Once the repository is created:
 #### 2. Clone the repository:
 bash
 Copy code
-git clone https://github.com/
+git clone [https://github.com/](https://github.com/thedevops111/DevOpsLearning.git)
 #### 3. Navigate into your project directory:
 bash
 Copy code

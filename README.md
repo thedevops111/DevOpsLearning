@@ -29,14 +29,28 @@ Before starting, ensure you are familiar with:
 To create your first repository:
 
 1. Click on the New button in the top right.
+   ![image](https://github.com/user-attachments/assets/bfd3d093-5424-41e0-b269-9506fbd0aa02)
+
 2. Name your repository (e.g., my-devops-journey).
+   ![image](https://github.com/user-attachments/assets/2c822778-5269-49c2-b1cb-9d84ae3aad69)
+
 3. Add a short description (optional).
+   ![image](https://github.com/user-attachments/assets/5267b03b-6553-4a4e-83c8-fa3ef9aebef9)
+
 4. Choose the visibility (Public or Private).
+   ![image](https://github.com/user-attachments/assets/b07bba6b-96e8-41d9-857f-6b1c2da81de2)
+
 5. Check the box to initialize with a README.md file.
+    ![image](https://github.com/user-attachments/assets/0bfe0e5d-ffd0-4368-97f5-2b6bd53faa80)
+
 6. Click Create repository.
+    ![image](https://github.com/user-attachments/assets/ae14da1c-34eb-489e-a08a-452685527a73)
+
    
 ### 3. Clone Your Repository
 Once the repository is created:
+![image](https://github.com/user-attachments/assets/9f497438-a92f-42d0-b5e8-afab85555601)
+
 
 #### 1. Open your terminal.
 #### 2. Clone the repository:

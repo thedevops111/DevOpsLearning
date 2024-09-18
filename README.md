@@ -66,8 +66,7 @@ Choose Set up a workflow yourself.
 2. Define the Workflow
 Add the following code to .github/workflows/ci.yml:
 
-yaml
-Copy code
+
 name: CI Pipeline
 
 on:
@@ -95,6 +94,7 @@ jobs:
 
       - name: Run tests
         run: npm test
+        
 3. Monitor Workflow
 Go to the Actions tab to view the status of your CI pipeline.
 A green checkmark indicates success, while a red cross shows a failure.
